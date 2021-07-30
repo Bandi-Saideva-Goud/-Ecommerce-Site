@@ -17,10 +17,6 @@ html, body {
     height: 100%;
 }
 
-.container {
-    min-height:100%;
-}
-
 #banner_image{
     
     margin-top: 50px;
