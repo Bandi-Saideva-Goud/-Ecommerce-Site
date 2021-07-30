@@ -33,7 +33,7 @@ and open the template in the editor.
             echo $email_exist;
         }
         ?>
-        <div class="container" style="margin-top:50px; padding-left:450px; padding-top:60px">
+        <div class="container" style="margin-top:50px; padding-left:50px; padding-top:60px">
             <div class="row">
                 <div class="col-xs-5">
                     <h1>SIGN UP</h1>
