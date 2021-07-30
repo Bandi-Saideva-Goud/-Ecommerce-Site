@@ -32,9 +32,13 @@ and open the template in the editor.
 }
 
 footer{
-    padding: 10px 0;
+    displayL flex;
+    margin-top: 300px;
     background-color: #101010;
     color: #9d9d9d;
     bottom: 0;
     width: 100%;
 }
+body{
+    padding: 0px;
+    margin: 0px;
