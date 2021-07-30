@@ -37,9 +37,8 @@ html, body {
 }
 
 footer{
-    position: relative;
+    position: fixed;
     padding: 10px 0;
-    margin-top: 145px;
     background-color: #101010;
     color: #9d9d9d;
     bottom: 0;
