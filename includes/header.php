@@ -26,7 +26,14 @@
                         <span class="icon-bar"></span>
                         
                     </button>
-                    <a href="#" class="navbar-brand">Lifestyle Store</a>
+                    <?php
+                            if(isset($_SESSION['id'])) {
+                        ?>
+                    <a href="products.php" class="navbar-brand">Lifestyle Store</a>
+                    <?php
+                            } else {
+                                ?>
+                    <a href="index.php" class="navbar-brand">Lifestyle Store</a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
