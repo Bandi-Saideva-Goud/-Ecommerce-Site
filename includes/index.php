@@ -25,7 +25,7 @@ if(isset($_SESSION['id'])){
        <?php
        include 'header.php';
        ?>
-        <div id="banner_image" style="margin-top: 50px">
+        <div id="banner_image" style="margin-top: 50px; height: 80%">
             <div id="banner_content" class="container">
                 <h1>We sell lifestyle.</h1>
                 <p>Flat 40% OFF on premium brands.</p>
