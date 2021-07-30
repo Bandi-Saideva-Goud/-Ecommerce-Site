@@ -34,6 +34,10 @@
                             } else {
                                 ?>
                     <a href="index.php" class="navbar-brand">Lifestyle Store</a>
+                    <?php
+                            }
+                        ?>
+                    
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
