@@ -48,7 +48,7 @@ and open the template in the editor.
                          <input type="password" class="form-control" placeholder="Password" name="password" pattern=".{8,}">
                         </div>
                         <div class="form-group">
-                         <input type="tel" class="form-control" placeholder="Contact" name="Contact" pattern=".{7,}">
+                         <input type="tel" class="form-control" placeholder="Enter a 8 digit or less number" name="Contact" pattern=".{7,}">
                         </div>
                         <div class="form-group">
                          <input type="text" class="form-control" placeholder="City" name="city">
