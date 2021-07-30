@@ -31,7 +31,7 @@ and open the template in the editor.
        include 'header.php';
        ?>
         
-         <div class="container" style="margin-top:50px; padding-left:50px; padding-top:60px">
+         <div class="container" style="margin-top:50px; padding-left:30%; padding-top:10%">
             <div class="row">
                 <div class="col-sm-5">
                     <h1>Change Password</h1>
