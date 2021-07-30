@@ -13,6 +13,7 @@ require 'common.php';
         <title>Login</title>
         <link href="login.css" rel="stylesheet" type="text/css">
         <link href="index.css" rel="stylesheet" type="text/css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
         <?php
