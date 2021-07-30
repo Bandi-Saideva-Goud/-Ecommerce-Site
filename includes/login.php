@@ -27,9 +27,9 @@ require 'common.php';
              echo $password_error;
         }
         ?>
-        <div class="container" style="margin-top:100px">
+        <div class="container" style="margin-top:50px">
             <div class="row">
-                <div class="col-xs-4 col-xs-offset-4">
+                <div class="col-sm-4 col-sm-offset-4">
                     <div class="panel panel-primary" >
                         <div class="panel-heading">
                             <h4>LOGIN</h4>
