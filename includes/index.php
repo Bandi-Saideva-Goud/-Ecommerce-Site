@@ -19,6 +19,7 @@ if(isset($_SESSION['id'])){
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Lifestyle Store</title>
          <link href="index.css" rel="stylesheet" type="text/css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
        <?php
